@@ -1,1 +1,0 @@
-this is a git practice to add a repo to github
